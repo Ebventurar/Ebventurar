@@ -1,4 +1,6 @@
-<p align="center">Hola 👋, soy Edward Ventura</p>
+<p align="center">
+  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jaro&size=30&duration=3000&pause=800&random=false&width=435&lines=Hola+%F0%9F%91%8B%2C+soy+Edward+Ventura;soy+un+programador;bienvenido+a+mi+perfil" alt="Typing SVG" /></a>
+</p>
 
 ###
 
@@ -8,10 +10,7 @@
 
 ###
 
-<p align="left">Tecnologías que utilizo</p>
-
-###
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jaro&size=30&duration=1&pause=5000&random=false&width=435&lines=Tecnolog%C3%ADas+que+he+utilizado" alt="Typing SVG" /></a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -33,11 +32,12 @@
 </div>
 
 ###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ebventurar&layout=donut&theme=holi"/>
+</p>
 
-<p align="left">Mis redes</p>
 
-###
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jaro&size=30&duration=1&pause=5000&random=false&width=435&lines=Mis+redes" alt="Typing SVG" /></a>
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
